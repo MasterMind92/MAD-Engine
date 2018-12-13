@@ -1,0 +1,16 @@
+{
+  "name": "mad-engine-resources",
+  "version": "1.0.0",
+  "description": "MAD Engine resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MAD",
+    "Engine",
+    "CMS"
+  ],
+  "author": "Dalo Marc-Andre",
+  "license": "ISC"
+}
